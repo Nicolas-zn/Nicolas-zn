@@ -1,6 +1,8 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-zn)](https://github.com/anuraghazra/github-readme-stats)
+[![Nico's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolas-zn)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-zn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Nicolas-zn/Nicolas-zn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
